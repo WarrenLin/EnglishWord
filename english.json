@@ -456,7 +456,7 @@
     ]
   },
   {
-    "Category": "construction",
+    "Category": "building",
     "ChineseCategory": "工地",
     "Words": [
       {
@@ -464,7 +464,7 @@
         "Type": "n.",
         "Text": "architect ",
         "Translations": "建築師",
-        "Category": "construction",
+        "Category": "building",
         "ChineseCategory": "工地",
         "Unit": null
       },
@@ -473,7 +473,7 @@
         "Type": "n.",
         "Text": "brick ",
         "Translations": "磚塊",
-        "Category": "construction",
+        "Category": "building",
         "ChineseCategory": "工地",
         "Unit": null
       },
@@ -482,7 +482,7 @@
         "Type": "n.",
         "Text": "carpenter ",
         "Translations": "木匠",
-        "Category": "construction",
+        "Category": "building",
         "ChineseCategory": "工地",
         "Unit": null
       },
@@ -491,7 +491,7 @@
         "Type": "n.",
         "Text": "carton ",
         "Translations": "紙盒；紙箱",
-        "Category": "construction",
+        "Category": "building",
         "ChineseCategory": "工地",
         "Unit": null
       },
@@ -500,7 +500,7 @@
         "Type": "v.",
         "Text": "clear ",
         "Translations": "清理",
-        "Category": "construction",
+        "Category": "building",
         "ChineseCategory": "工地",
         "Unit": null
       },
@@ -509,7 +509,7 @@
         "Type": "v.",
         "Text": "demolish ",
         "Translations": "拆除；破壞",
-        "Category": "construction",
+        "Category": "building",
         "ChineseCategory": "工地",
         "Unit": null
       },
@@ -518,7 +518,7 @@
         "Type": "adj.",
         "Text": "durable ",
         "Translations": "耐用的",
-        "Category": "construction",
+        "Category": "building",
         "ChineseCategory": "工地",
         "Unit": null
       },
@@ -527,7 +527,7 @@
         "Type": "v.",
         "Text": "erect ",
         "Translations": "建立；設立",
-        "Category": "construction",
+        "Category": "building",
         "ChineseCategory": "工地",
         "Unit": null
       },
@@ -536,7 +536,7 @@
         "Type": "n.",
         "Text": "frame ",
         "Translations": "框架",
-        "Category": "construction",
+        "Category": "building",
         "ChineseCategory": "工地",
         "Unit": null
       },
@@ -545,7 +545,7 @@
         "Type": "n.",
         "Text": "hard hat ",
         "Translations": "安全帽",
-        "Category": "construction",
+        "Category": "building",
         "ChineseCategory": "工地",
         "Unit": null
       },
@@ -554,7 +554,7 @@
         "Type": "n.",
         "Text": "heavy machinery ",
         "Translations": "重機械",
-        "Category": "construction",
+        "Category": "building",
         "ChineseCategory": "工地",
         "Unit": null
       },
@@ -563,7 +563,7 @@
         "Type": "n.",
         "Text": "housing development ",
         "Translations": "住宅區",
-        "Category": "construction",
+        "Category": "building",
         "ChineseCategory": "工地",
         "Unit": null
       },
@@ -572,7 +572,7 @@
         "Type": "v.",
         "Text": "install ",
         "Translations": "設置；安裝",
-        "Category": "construction",
+        "Category": "building",
         "ChineseCategory": "工地",
         "Unit": null
       },
@@ -581,7 +581,7 @@
         "Type": "n.",
         "Text": "layout ",
         "Translations": "佈置；設計",
-        "Category": "construction",
+        "Category": "building",
         "ChineseCategory": "工地",
         "Unit": null
       },
@@ -590,7 +590,7 @@
         "Type": "v.",
         "Text": "load ",
         "Translations": "裝載",
-        "Category": "construction",
+        "Category": "building",
         "ChineseCategory": "工地",
         "Unit": null
       },
@@ -599,7 +599,7 @@
         "Type": "n.",
         "Text": "log ",
         "Translations": "原木；木材",
-        "Category": "construction",
+        "Category": "building",
         "ChineseCategory": "工地",
         "Unit": null
       },
@@ -608,7 +608,7 @@
         "Type": "n.",
         "Text": "lumber ",
         "Translations": "木材；木料",
-        "Category": "construction",
+        "Category": "building",
         "ChineseCategory": "工地",
         "Unit": null
       },
@@ -617,7 +617,7 @@
         "Type": "n.",
         "Text": "mechanic ",
         "Translations": "技工",
-        "Category": "construction",
+        "Category": "building",
         "ChineseCategory": "工地",
         "Unit": null
       },
@@ -626,7 +626,7 @@
         "Type": "n.",
         "Text": "nail ",
         "Translations": "釘子",
-        "Category": "construction",
+        "Category": "building",
         "ChineseCategory": "工地",
         "Unit": null
       },
@@ -635,7 +635,7 @@
         "Type": "n.",
         "Text": "panel ",
         "Translations": "儀錶板",
-        "Category": "construction",
+        "Category": "building",
         "ChineseCategory": "工地",
         "Unit": null
       },
@@ -644,7 +644,7 @@
         "Type": "n.",
         "Text": "partition ",
         "Translations": "隔牆(板)",
-        "Category": "construction",
+        "Category": "building",
         "ChineseCategory": "工地",
         "Unit": null
       },
@@ -653,7 +653,7 @@
         "Type": "n.",
         "Text": "plan ",
         "Translations": "藍圖；設計圖",
-        "Category": "construction",
+        "Category": "building",
         "ChineseCategory": "工地",
         "Unit": null
       },
@@ -662,7 +662,7 @@
         "Type": "v.",
         "Text": "redo ",
         "Translations": "重做",
-        "Category": "construction",
+        "Category": "building",
         "ChineseCategory": "工地",
         "Unit": null
       },
@@ -671,7 +671,7 @@
         "Type": "n.",
         "Text": "reinforcement ",
         "Translations": "增強；強化",
-        "Category": "construction",
+        "Category": "building",
         "ChineseCategory": "工地",
         "Unit": null
       },
@@ -680,7 +680,7 @@
         "Type": "v.",
         "Text": "remodel ",
         "Translations": "改建",
-        "Category": "construction",
+        "Category": "building",
         "ChineseCategory": "工地",
         "Unit": null
       },
@@ -689,7 +689,7 @@
         "Type": "n.",
         "Text": "removal ",
         "Translations": "移動；去除",
-        "Category": "construction",
+        "Category": "building",
         "ChineseCategory": "工地",
         "Unit": null
       },
@@ -698,7 +698,7 @@
         "Type": "v.",
         "Text": "restore ",
         "Translations": "修復；整修",
-        "Category": "construction",
+        "Category": "building",
         "ChineseCategory": "工地",
         "Unit": null
       },
@@ -707,7 +707,7 @@
         "Type": "n.",
         "Text": "safety gear ",
         "Translations": "安全服；安全裝備",
-        "Category": "construction",
+        "Category": "building",
         "ChineseCategory": "工地",
         "Unit": null
       },
@@ -716,7 +716,7 @@
         "Type": "n.",
         "Text": "saw ",
         "Translations": "鋸子",
-        "Category": "construction",
+        "Category": "building",
         "ChineseCategory": "工地",
         "Unit": null
       },
@@ -725,7 +725,7 @@
         "Type": "n.",
         "Text": "scaffolding ",
         "Translations": "鷹架",
-        "Category": "construction",
+        "Category": "building",
         "ChineseCategory": "工地",
         "Unit": null
       },
@@ -734,7 +734,7 @@
         "Type": "n.",
         "Text": "shovel ",
         "Translations": "鏟子",
-        "Category": "construction",
+        "Category": "building",
         "ChineseCategory": "工地",
         "Unit": null
       },
@@ -743,7 +743,7 @@
         "Type": "n.",
         "Text": "site supervisor ",
         "Translations": "工地主任",
-        "Category": "construction",
+        "Category": "building",
         "ChineseCategory": "工地",
         "Unit": null
       },
@@ -752,7 +752,7 @@
         "Type": "n.",
         "Text": "space allocation ",
         "Translations": "空間分配",
-        "Category": "construction",
+        "Category": "building",
         "ChineseCategory": "工地",
         "Unit": null
       },
@@ -761,7 +761,7 @@
         "Type": "n.",
         "Text": "steel ",
         "Translations": "鋼鐵",
-        "Category": "construction",
+        "Category": "building",
         "ChineseCategory": "工地",
         "Unit": null
       },
@@ -770,7 +770,7 @@
         "Type": "n.",
         "Text": "structure ",
         "Translations": "建築物",
-        "Category": "construction",
+        "Category": "building",
         "ChineseCategory": "工地",
         "Unit": null
       },
@@ -779,7 +779,7 @@
         "Type": "n.",
         "Text": "tread ",
         "Translations": "(輪胎的)胎面",
-        "Category": "construction",
+        "Category": "building",
         "ChineseCategory": "工地",
         "Unit": null
       },
@@ -788,7 +788,7 @@
         "Type": "v.",
         "Text": "unload ",
         "Translations": "把某物卸下；卸貨",
-        "Category": "construction",
+        "Category": "building",
         "ChineseCategory": "工地",
         "Unit": null
       },
@@ -797,7 +797,7 @@
         "Type": "n.",
         "Text": "wheelbarrow ",
         "Translations": "手推車",
-        "Category": "construction",
+        "Category": "building",
         "ChineseCategory": "工地",
         "Unit": null
       },
@@ -806,7 +806,7 @@
         "Type": "n.",
         "Text": "wing ",
         "Translations": "加蓋的附屬建築物",
-        "Category": "construction",
+        "Category": "building",
         "ChineseCategory": "工地",
         "Unit": null
       },
@@ -815,7 +815,7 @@
         "Type": "n.",
         "Text": "wire ",
         "Translations": "電線；金屬線",
-        "Category": "construction",
+        "Category": "building",
         "ChineseCategory": "工地",
         "Unit": null
       },
@@ -824,7 +824,7 @@
         "Type": "v.",
         "Text": "yield ",
         "Translations": "產生；出產",
-        "Category": "construction",
+        "Category": "building",
         "ChineseCategory": "工地",
         "Unit": null
       }
@@ -4833,7 +4833,7 @@
     ]
   },
   {
-    "Category": "transportation",
+    "Category": "transport",
     "ChineseCategory": "交通運輸",
     "Words": [
       {
@@ -4841,7 +4841,7 @@
         "Type": "v.",
         "Text": "accelerate ",
         "Translations": "加速；促進；前進",
-        "Category": "transportation",
+        "Category": "transport",
         "ChineseCategory": "交通運輸",
         "Unit": null
       },
@@ -4850,7 +4850,7 @@
         "Type": "n.",
         "Text": "aircraft ",
         "Translations": "飛機；飛行器；航空器",
-        "Category": "transportation",
+        "Category": "transport",
         "ChineseCategory": "交通運輸",
         "Unit": null
       },
@@ -4859,7 +4859,7 @@
         "Type": "n.",
         "Text": "acrophobia ",
         "Translations": "恐高症",
-        "Category": "transportation",
+        "Category": "transport",
         "ChineseCategory": "交通運輸",
         "Unit": null
       },
@@ -4868,7 +4868,7 @@
         "Type": "n.",
         "Text": "airliner ",
         "Translations": "大型客機",
-        "Category": "transportation",
+        "Category": "transport",
         "ChineseCategory": "交通運輸",
         "Unit": null
       },
@@ -4877,7 +4877,7 @@
         "Type": "n.",
         "Text": "aviation ",
         "Translations": "飛行；航空學",
-        "Category": "transportation",
+        "Category": "transport",
         "ChineseCategory": "交通運輸",
         "Unit": null
       },
@@ -4886,7 +4886,7 @@
         "Type": "n.",
         "Text": "arrival ",
         "Translations": "到達；抵達",
-        "Category": "transportation",
+        "Category": "transport",
         "ChineseCategory": "交通運輸",
         "Unit": null
       },
@@ -4895,7 +4895,7 @@
         "Type": "v.",
         "Text": "buckle up ",
         "Translations": "繫安全帶",
-        "Category": "transportation",
+        "Category": "transport",
         "ChineseCategory": "交通運輸",
         "Unit": null
       },
@@ -4904,7 +4904,7 @@
         "Type": "n.",
         "Text": "cargo ",
         "Translations": "貨物",
-        "Category": "transportation",
+        "Category": "transport",
         "ChineseCategory": "交通運輸",
         "Unit": null
       },
@@ -4913,7 +4913,7 @@
         "Type": "n.",
         "Text": "cabin ",
         "Translations": "小木屋；機艙",
-        "Category": "transportation",
+        "Category": "transport",
         "ChineseCategory": "交通運輸",
         "Unit": null
       },
@@ -4922,7 +4922,7 @@
         "Type": "n.",
         "Text": "commuter ",
         "Translations": "通勤者",
-        "Category": "transportation",
+        "Category": "transport",
         "ChineseCategory": "交通運輸",
         "Unit": null
       },
@@ -4931,7 +4931,7 @@
         "Type": "n.",
         "Text": "conveyance ",
         "Translations": "運輸；交通工具",
-        "Category": "transportation",
+        "Category": "transport",
         "ChineseCategory": "交通運輸",
         "Unit": null
       },
@@ -4940,7 +4940,7 @@
         "Type": "n.",
         "Text": "congestion ",
         "Translations": "(交通)阻塞",
-        "Category": "transportation",
+        "Category": "transport",
         "ChineseCategory": "交通運輸",
         "Unit": null
       },
@@ -4949,7 +4949,7 @@
         "Type": "n.",
         "Text": "crossroads ",
         "Translations": "十字路口",
-        "Category": "transportation",
+        "Category": "transport",
         "ChineseCategory": "交通運輸",
         "Unit": null
       },
@@ -4958,7 +4958,7 @@
         "Type": "n.",
         "Text": "convertible ",
         "Translations": "敞篷車",
-        "Category": "transportation",
+        "Category": "transport",
         "ChineseCategory": "交通運輸",
         "Unit": null
       },
@@ -4967,7 +4967,7 @@
         "Type": "n.",
         "Text": "crash-landing ",
         "Translations": "迫降",
-        "Category": "transportation",
+        "Category": "transport",
         "ChineseCategory": "交通運輸",
         "Unit": null
       },
@@ -4976,7 +4976,7 @@
         "Type": "v.",
         "Text": "delay ",
         "Translations": "耽擱；延遲",
-        "Category": "transportation",
+        "Category": "transport",
         "ChineseCategory": "交通運輸",
         "Unit": null
       },
@@ -4985,7 +4985,7 @@
         "Type": "v.",
         "Text": "dock ",
         "Translations": "停駐；靠碼頭",
-        "Category": "transportation",
+        "Category": "transport",
         "ChineseCategory": "交通運輸",
         "Unit": null
       },
@@ -4994,7 +4994,7 @@
         "Type": "adj.",
         "Text": "express ",
         "Translations": "快速的；快遞的",
-        "Category": "transportation",
+        "Category": "transport",
         "ChineseCategory": "交通運輸",
         "Unit": null
       },
@@ -5003,7 +5003,7 @@
         "Type": "v.",
         "Text": "expedite ",
         "Translations": "加快；促進",
-        "Category": "transportation",
+        "Category": "transport",
         "ChineseCategory": "交通運輸",
         "Unit": null
       },
@@ -5012,7 +5012,7 @@
         "Type": "v.",
         "Text": "forbid ",
         "Translations": "禁止",
-        "Category": "transportation",
+        "Category": "transport",
         "ChineseCategory": "交通運輸",
         "Unit": null
       },
@@ -5021,7 +5021,7 @@
         "Type": "n.",
         "Text": "ferry ",
         "Translations": "渡輪",
-        "Category": "transportation",
+        "Category": "transport",
         "ChineseCategory": "交通運輸",
         "Unit": null
       },
@@ -5030,7 +5030,7 @@
         "Type": "n.",
         "Text": "freight ",
         "Translations": "貨運；貨物",
-        "Category": "transportation",
+        "Category": "transport",
         "ChineseCategory": "交通運輸",
         "Unit": null
       },
@@ -5039,7 +5039,7 @@
         "Type": "n.",
         "Text": "ground crew ",
         "Translations": "地勤人員",
-        "Category": "transportation",
+        "Category": "transport",
         "ChineseCategory": "交通運輸",
         "Unit": null
       },
@@ -5048,7 +5048,7 @@
         "Type": "n.",
         "Text": "jeopardy ",
         "Translations": "危險；危難",
-        "Category": "transportation",
+        "Category": "transport",
         "ChineseCategory": "交通運輸",
         "Unit": null
       },
@@ -5057,7 +5057,7 @@
         "Type": "v.",
         "Text": "jaywalk ",
         "Translations": "不遵守交通規則穿越馬路；闖紅燈",
-        "Category": "transportation",
+        "Category": "transport",
         "ChineseCategory": "交通運輸",
         "Unit": null
       },
@@ -5066,7 +5066,7 @@
         "Type": "v.",
         "Text": "launch ",
         "Translations": "發射；開始",
-        "Category": "transportation",
+        "Category": "transport",
         "ChineseCategory": "交通運輸",
         "Unit": null
       },
@@ -5075,7 +5075,7 @@
         "Type": "n.",
         "Text": "life vest ",
         "Translations": "救生衣",
-        "Category": "transportation",
+        "Category": "transport",
         "ChineseCategory": "交通運輸",
         "Unit": null
       },
@@ -5084,7 +5084,7 @@
         "Type": "v.",
         "Text": "navigate ",
         "Translations": "航行；駕駛",
-        "Category": "transportation",
+        "Category": "transport",
         "ChineseCategory": "交通運輸",
         "Unit": null
       },
@@ -5093,7 +5093,7 @@
         "Type": "n.",
         "Text": "pier ",
         "Translations": "碼頭",
-        "Category": "transportation",
+        "Category": "transport",
         "ChineseCategory": "交通運輸",
         "Unit": null
       },
@@ -5102,7 +5102,7 @@
         "Type": "n.",
         "Text": "pilot ",
         "Translations": "飛行員",
-        "Category": "transportation",
+        "Category": "transport",
         "ChineseCategory": "交通運輸",
         "Unit": null
       },
@@ -5111,7 +5111,7 @@
         "Type": "n.",
         "Text": "pedestrian ",
         "Translations": "行人；路人",
-        "Category": "transportation",
+        "Category": "transport",
         "ChineseCategory": "交通運輸",
         "Unit": null
       },
@@ -5120,7 +5120,7 @@
         "Type": "n.",
         "Text": "route ",
         "Translations": "路徑；路線",
-        "Category": "transportation",
+        "Category": "transport",
         "ChineseCategory": "交通運輸",
         "Unit": null
       },
@@ -5129,7 +5129,7 @@
         "Type": "n.",
         "Text": "restriction ",
         "Translations": "限制；約束",
-        "Category": "transportation",
+        "Category": "transport",
         "ChineseCategory": "交通運輸",
         "Unit": null
       },
@@ -5138,7 +5138,7 @@
         "Type": "n.",
         "Text": "shortcut ",
         "Translations": "近路；捷徑",
-        "Category": "transportation",
+        "Category": "transport",
         "ChineseCategory": "交通運輸",
         "Unit": null
       },
@@ -5147,7 +5147,7 @@
         "Type": "n.",
         "Text": "seat belt ",
         "Translations": "安全帶",
-        "Category": "transportation",
+        "Category": "transport",
         "ChineseCategory": "交通運輸",
         "Unit": null
       },
@@ -5156,7 +5156,7 @@
         "Type": "n.",
         "Text": "subway ",
         "Translations": "地鐵",
-        "Category": "transportation",
+        "Category": "transport",
         "ChineseCategory": "交通運輸",
         "Unit": null
       },
@@ -5165,7 +5165,7 @@
         "Type": "n.",
         "Text": "taxicab ",
         "Translations": "計程車",
-        "Category": "transportation",
+        "Category": "transport",
         "ChineseCategory": "交通運輸",
         "Unit": null
       },
@@ -5174,7 +5174,7 @@
         "Type": "n.",
         "Text": "transit ",
         "Translations": "運輸；通過",
-        "Category": "transportation",
+        "Category": "transport",
         "ChineseCategory": "交通運輸",
         "Unit": null
       },
@@ -5183,7 +5183,7 @@
         "Type": "v.",
         "Text": "take off ",
         "Translations": "起飛",
-        "Category": "transportation",
+        "Category": "transport",
         "ChineseCategory": "交通運輸",
         "Unit": null
       },
@@ -5192,7 +5192,7 @@
         "Type": "n.",
         "Text": "timetable ",
         "Translations": "時間表；時刻表",
-        "Category": "transportation",
+        "Category": "transport",
         "ChineseCategory": "交通運輸",
         "Unit": null
       },
@@ -5201,7 +5201,7 @@
         "Type": "n.",
         "Text": "transport ",
         "Translations": "運輸；交通工具",
-        "Category": "transportation",
+        "Category": "transport",
         "ChineseCategory": "交通運輸",
         "Unit": null
       },
@@ -5210,7 +5210,7 @@
         "Type": "prep.",
         "Text": "via ",
         "Translations": "經由；藉由",
-        "Category": "transportation",
+        "Category": "transport",
         "ChineseCategory": "交通運輸",
         "Unit": null
       },
@@ -5219,7 +5219,7 @@
         "Type": "n.",
         "Text": "vehicle ",
         "Translations": "交通工具；車輛",
-        "Category": "transportation",
+        "Category": "transport",
         "ChineseCategory": "交通運輸",
         "Unit": null
       },
@@ -5228,7 +5228,7 @@
         "Type": "n.",
         "Text": "vessel ",
         "Translations": "船；艦",
-        "Category": "transportation",
+        "Category": "transport",
         "ChineseCategory": "交通運輸",
         "Unit": null
       },
@@ -5237,7 +5237,7 @@
         "Type": "n.",
         "Text": "wharf ",
         "Translations": "碼頭",
-        "Category": "transportation",
+        "Category": "transport",
         "ChineseCategory": "交通運輸",
         "Unit": null
       },
@@ -5246,7 +5246,7 @@
         "Type": "n.",
         "Text": "watercraft ",
         "Translations": "船隻",
-        "Category": "transportation",
+        "Category": "transport",
         "ChineseCategory": "交通運輸",
         "Unit": null
       }
@@ -6084,7 +6084,7 @@
     ]
   },
   {
-    "Category": "entertainment",
+    "Category": "relaxation",
     "ChineseCategory": "娛樂",
     "Words": [
       {
@@ -6092,7 +6092,7 @@
         "Type": "v.",
         "Text": "amuse ",
         "Translations": "使歡樂；使愉快；使發笑",
-        "Category": "entertainment",
+        "Category": "relaxation",
         "ChineseCategory": "娛樂",
         "Unit": null
       },
@@ -6101,7 +6101,7 @@
         "Type": "n.",
         "Text": "audience ",
         "Translations": "聽眾；觀眾",
-        "Category": "entertainment",
+        "Category": "relaxation",
         "ChineseCategory": "娛樂",
         "Unit": null
       },
@@ -6110,7 +6110,7 @@
         "Type": "v.",
         "Text": "applaud ",
         "Translations": "鼓掌；稱讚",
-        "Category": "entertainment",
+        "Category": "relaxation",
         "ChineseCategory": "娛樂",
         "Unit": null
       },
@@ -6119,7 +6119,7 @@
         "Type": "v.",
         "Text": "audition ",
         "Translations": "試聽；試鏡",
-        "Category": "entertainment",
+        "Category": "relaxation",
         "ChineseCategory": "娛樂",
         "Unit": null
       },
@@ -6128,7 +6128,7 @@
         "Type": "v.",
         "Text": "broadcast ",
         "Translations": "廣播；宣傳",
-        "Category": "entertainment",
+        "Category": "relaxation",
         "ChineseCategory": "娛樂",
         "Unit": null
       },
@@ -6137,7 +6137,7 @@
         "Type": "n.",
         "Text": "ballet ",
         "Translations": "芭蕾舞",
-        "Category": "entertainment",
+        "Category": "relaxation",
         "ChineseCategory": "娛樂",
         "Unit": null
       },
@@ -6146,7 +6146,7 @@
         "Type": "n.",
         "Text": "celebrity ",
         "Translations": "名人；名聲",
-        "Category": "entertainment",
+        "Category": "relaxation",
         "ChineseCategory": "娛樂",
         "Unit": null
       },
@@ -6155,7 +6155,7 @@
         "Type": "n.",
         "Text": "cinema ",
         "Translations": "電影院",
-        "Category": "entertainment",
+        "Category": "relaxation",
         "ChineseCategory": "娛樂",
         "Unit": null
       },
@@ -6164,7 +6164,7 @@
         "Type": "n.",
         "Text": "composer ",
         "Translations": "作曲家",
-        "Category": "entertainment",
+        "Category": "relaxation",
         "ChineseCategory": "娛樂",
         "Unit": null
       },
@@ -6173,7 +6173,7 @@
         "Type": "n.",
         "Text": "conductor ",
         "Translations": "指揮家",
-        "Category": "entertainment",
+        "Category": "relaxation",
         "ChineseCategory": "娛樂",
         "Unit": null
       },
@@ -6182,7 +6182,7 @@
         "Type": "n.",
         "Text": "cue ",
         "Translations": "暗示；提示",
-        "Category": "entertainment",
+        "Category": "relaxation",
         "ChineseCategory": "娛樂",
         "Unit": null
       },
@@ -6191,7 +6191,7 @@
         "Type": "n.",
         "Text": "carnival ",
         "Translations": "狂歡節；嘉年華",
-        "Category": "entertainment",
+        "Category": "relaxation",
         "ChineseCategory": "娛樂",
         "Unit": null
       },
@@ -6200,7 +6200,7 @@
         "Type": "n.",
         "Text": "choreography ",
         "Translations": "舞蹈設計；編舞",
-        "Category": "entertainment",
+        "Category": "relaxation",
         "ChineseCategory": "娛樂",
         "Unit": null
       },
@@ -6209,7 +6209,7 @@
         "Type": "n.",
         "Text": "circus ",
         "Translations": "馬戲團",
-        "Category": "entertainment",
+        "Category": "relaxation",
         "ChineseCategory": "娛樂",
         "Unit": null
       },
@@ -6218,7 +6218,7 @@
         "Type": "n.",
         "Text": "concert ",
         "Translations": "音樂會",
-        "Category": "entertainment",
+        "Category": "relaxation",
         "ChineseCategory": "娛樂",
         "Unit": null
       },
@@ -6227,7 +6227,7 @@
         "Type": "n.",
         "Text": "critic ",
         "Translations": "批評家；評論家",
-        "Category": "entertainment",
+        "Category": "relaxation",
         "ChineseCategory": "娛樂",
         "Unit": null
       },
@@ -6236,7 +6236,7 @@
         "Type": "n.",
         "Text": "curtain ",
         "Translations": "（舞臺上的）幕；啟幕；落幕",
-        "Category": "entertainment",
+        "Category": "relaxation",
         "ChineseCategory": "娛樂",
         "Unit": null
       },
@@ -6245,7 +6245,7 @@
         "Type": "n.",
         "Text": "drama ",
         "Translations": "戲劇",
-        "Category": "entertainment",
+        "Category": "relaxation",
         "ChineseCategory": "娛樂",
         "Unit": null
       },
@@ -6254,7 +6254,7 @@
         "Type": "n.",
         "Text": "distraction ",
         "Translations": "娛樂",
-        "Category": "entertainment",
+        "Category": "relaxation",
         "ChineseCategory": "娛樂",
         "Unit": null
       },
@@ -6263,7 +6263,7 @@
         "Type": "n.",
         "Text": "editorial ",
         "Translations": "社論；社評",
-        "Category": "entertainment",
+        "Category": "relaxation",
         "ChineseCategory": "娛樂",
         "Unit": null
       },
@@ -6272,7 +6272,7 @@
         "Type": "n.",
         "Text": "fare ",
         "Translations": "車費；票價",
-        "Category": "entertainment",
+        "Category": "relaxation",
         "ChineseCategory": "娛樂",
         "Unit": null
       },
@@ -6281,7 +6281,7 @@
         "Type": "n.",
         "Text": "finale ",
         "Translations": "結局；終場",
-        "Category": "entertainment",
+        "Category": "relaxation",
         "ChineseCategory": "娛樂",
         "Unit": null
       },
@@ -6290,7 +6290,7 @@
         "Type": "n.",
         "Text": "headline ",
         "Translations": "(報紙的)標題",
-        "Category": "entertainment",
+        "Category": "relaxation",
         "ChineseCategory": "娛樂",
         "Unit": null
       },
@@ -6299,7 +6299,7 @@
         "Type": "adj.",
         "Text": "indoor",
         "Translations": "室內的，戶內的；在室內使用的；在室內進行的",
-        "Category": "entertainment",
+        "Category": "relaxation",
         "ChineseCategory": "娛樂",
         "Unit": null
       },
@@ -6308,7 +6308,7 @@
         "Type": "n.",
         "Text": "newscast ",
         "Translations": "新聞廣播",
-        "Category": "entertainment",
+        "Category": "relaxation",
         "ChineseCategory": "娛樂",
         "Unit": null
       },
@@ -6317,7 +6317,7 @@
         "Type": "n.",
         "Text": "party",
         "Translations": "（共同工作或活動的）一團人，一夥人",
-        "Category": "entertainment",
+        "Category": "relaxation",
         "ChineseCategory": "娛樂",
         "Unit": null
       },
@@ -6326,7 +6326,7 @@
         "Type": "n.",
         "Text": "periodical ",
         "Translations": "雜誌；期刊",
-        "Category": "entertainment",
+        "Category": "relaxation",
         "ChineseCategory": "娛樂",
         "Unit": null
       },
@@ -6335,7 +6335,7 @@
         "Type": "n.",
         "Text": "premiere ",
         "Translations": "首映",
-        "Category": "entertainment",
+        "Category": "relaxation",
         "ChineseCategory": "娛樂",
         "Unit": null
       },
@@ -6344,7 +6344,7 @@
         "Type": "n.",
         "Text": "performance ",
         "Translations": "演出；表現；業績",
-        "Category": "entertainment",
+        "Category": "relaxation",
         "ChineseCategory": "娛樂",
         "Unit": null
       },
@@ -6353,7 +6353,7 @@
         "Type": "n.",
         "Text": "playwright ",
         "Translations": "劇作家",
-        "Category": "entertainment",
+        "Category": "relaxation",
         "ChineseCategory": "娛樂",
         "Unit": null
       },
@@ -6362,7 +6362,7 @@
         "Type": "n.",
         "Text": "trailer ",
         "Translations": "預告片",
-        "Category": "entertainment",
+        "Category": "relaxation",
         "ChineseCategory": "娛樂",
         "Unit": null
       },
@@ -6371,7 +6371,7 @@
         "Type": "v.",
         "Text": "rate ",
         "Translations": "評價；評估",
-        "Category": "entertainment",
+        "Category": "relaxation",
         "ChineseCategory": "娛樂",
         "Unit": null
       },
@@ -6380,7 +6380,7 @@
         "Type": "n.",
         "Text": "recording ",
         "Translations": "唱片",
-        "Category": "entertainment",
+        "Category": "relaxation",
         "ChineseCategory": "娛樂",
         "Unit": null
       },
@@ -6389,7 +6389,7 @@
         "Type": "n.",
         "Text": "rehearsal ",
         "Translations": "預演；排練",
-        "Category": "entertainment",
+        "Category": "relaxation",
         "ChineseCategory": "娛樂",
         "Unit": null
       },
@@ -6398,7 +6398,7 @@
         "Type": "n.",
         "Text": "stunt ",
         "Translations": "特技；噱頭",
-        "Category": "entertainment",
+        "Category": "relaxation",
         "ChineseCategory": "娛樂",
         "Unit": null
       },
@@ -6407,7 +6407,7 @@
         "Type": "n.",
         "Text": "sitcom ",
         "Translations": "情境喜劇",
-        "Category": "entertainment",
+        "Category": "relaxation",
         "ChineseCategory": "娛樂",
         "Unit": null
       },
@@ -6416,7 +6416,7 @@
         "Type": "n.",
         "Text": "scenario ",
         "Translations": "場景；戲本",
-        "Category": "entertainment",
+        "Category": "relaxation",
         "ChineseCategory": "娛樂",
         "Unit": null
       },
@@ -6425,7 +6425,7 @@
         "Type": "n.",
         "Text": "scriptwriter ",
         "Translations": "劇作家；編劇",
-        "Category": "entertainment",
+        "Category": "relaxation",
         "ChineseCategory": "娛樂",
         "Unit": null
       },
@@ -6434,7 +6434,7 @@
         "Type": "n.",
         "Text": "symphony ",
         "Translations": "交響曲",
-        "Category": "entertainment",
+        "Category": "relaxation",
         "ChineseCategory": "娛樂",
         "Unit": null
       },
@@ -6443,7 +6443,7 @@
         "Type": "n.",
         "Text": "ticket office ",
         "Translations": "售票處",
-        "Category": "entertainment",
+        "Category": "relaxation",
         "ChineseCategory": "娛樂",
         "Unit": null
       },
@@ -6452,7 +6452,7 @@
         "Type": "n.",
         "Text": "theater ",
         "Translations": "戲院；劇院",
-        "Category": "entertainment",
+        "Category": "relaxation",
         "ChineseCategory": "娛樂",
         "Unit": null
       }
